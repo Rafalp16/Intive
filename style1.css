@@ -12,10 +12,6 @@ html {
   margin: 0 auto;	
 }
 
-.clickCount {
-  
-}
-
 .clickCount:hover {
   color: #f00;
 }
