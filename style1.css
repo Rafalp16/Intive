@@ -1,0 +1,21 @@
+html {
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.myBox {
+  background-color: #e7e7e7; 
+  color: fff;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 0 auto;	
+}
+
+.clickCount {
+  
+}
+
+.clickCount:hover {
+  color: #f00;
+}
